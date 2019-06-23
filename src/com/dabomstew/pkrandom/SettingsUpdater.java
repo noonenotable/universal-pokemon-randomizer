@@ -240,6 +240,8 @@ public class SettingsUpdater {
             // add space for the trainer level modifier
             insertExtraByte(35, (byte) 50); // 50 in the settings file = +0% after adjustment
         }
+        
+        // no changes from 172 to 200. The jump represents the transfer of ownership.
 
         // fix checksum
         CRC32 checksum = new CRC32();

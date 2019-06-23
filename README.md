@@ -1,10 +1,10 @@
 Universal Pokemon Randomizer
 
-By Dabomstew
+By noonenotable since 2019
 
-Homepage: http://pokehacks.dabomstew.com/randomizer/
+Originally By Dabomstew
 
-**Notice: New binary releases of the randomizer have been indefinitely suspended since 2016. This repository remains available to distribute source code and facilitiate forks.**
+Original Homepage: http://pokehacks.dabomstew.com/randomizer/
 
 # For Program Users
 If you're looking to actually *use* the randomizer as opposed to looking at the 
